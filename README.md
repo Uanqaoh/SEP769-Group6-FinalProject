@@ -6,14 +6,14 @@ This project implements a water potability prediction pipeline entirely within a
 ## Repository Structure
 ```
 ├── 769_Group6_final.ipynb    # Main experiment notebook  
-├── requirements.txt          # Python dependencies  
+├── requirements.txt          # Python dependencies
 └── README.md                 # This file  
 ```
 
 ## Environment Setup
 1. **Clone the repository**  
    ```bash
-   git clone https://your.repo.url/Group6-WaterQuality.git
+   git clone https://github.com/Uanqaoh/SEP769-Group6-FinalProject
    cd Group6-WaterQuality
    ```
 2. **(Optional) Create & activate a virtual environment**  
@@ -61,10 +61,3 @@ The notebook uses the Kaggle API to fetch the “Water Potability” dataset aut
   Run `chmod 600 ~/.kaggle/kaggle.json` to secure the file.
 - **Notebook crashes or hangs**  
   Try restarting the kernel in a fresh Python ≥3.8 virtual environment.
-
-## Contact
-For questions or feedback, please reach out to the project lead:  
-- **Name:** XXX  
-- **Email:** your_email@domain.com  
-
-Enjoy reproducing the experiments!
